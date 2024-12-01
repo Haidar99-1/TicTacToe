@@ -9,5 +9,5 @@
 
 2. Run the test file:
     ```sh
-    python -m unittest test_tictactoe.py
+    python3 -m unittest test_tictactoe.py
     ```
